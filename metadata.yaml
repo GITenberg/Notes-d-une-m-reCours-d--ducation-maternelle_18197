@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '7871'
     url: http://www.gutenberg.org/2009/agents/7871
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18197#Notes-d-une-m-reCours-d--ducation-maternelle
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2006-04-18'
 gutenberg_type: Text
