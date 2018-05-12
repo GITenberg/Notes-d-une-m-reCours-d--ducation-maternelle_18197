@@ -1,0 +1,33 @@
+_repo: Notes-d-une-m-reCours-d--ducation-maternelle_18197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alq, Louise d'
+    aliases:
+    - Alq, Louise Alquié de Rieusseyroux, known as d'
+    - D'Alq, Louise
+    - Alq, Louise Alquie de Rieusseyroux, known as d'
+    birthdate: 1839
+    deathdate: 1900
+    gutenberg_agent_id: '7871'
+    url: http://www.gutenberg.org/2009/agents/7871
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2006-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18197'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Girls -- Education'
+title: 'Notes d''une mère
+
+  Cours d''éducation maternelle'
+url: http://www.gutenberg.org/ebooks/18197
